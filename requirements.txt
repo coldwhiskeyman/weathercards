@@ -1,0 +1,4 @@
+peewee~=3.13.3
+requests~=2.24.0
+opencv-python~=4.4.0.44
+beautifulsoup4~=4.9.3
